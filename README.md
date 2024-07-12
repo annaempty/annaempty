@@ -1,7 +1,9 @@
-## Hi there 👋
-
-<!--
-**annaempty/annaempty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет! Меня зовут Анна 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Каждый день стремлюсь познавать что-то новое и интересное в сфере анализа данных</h3>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtrZzVjYXJzcmMzMmVqc2tubXB5eWs1MXpmb3JjMWswOTlxMmNmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
+</div>
 
 Here are some ideas to get you started:
 
