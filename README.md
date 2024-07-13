@@ -33,14 +33,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="Numpy" alt="Numpy" height="40"/>&nbsp;
   <img src="https://pingouin-stats.org/build/html/_images/logo_pingouin.png" title="Pingouin" alt="Pingouin" width="120"/>&nbsp;
   <img src="https://clickhouse.com/docs/img/ch_logo_docs_dark.svg" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
   <img src="https://me.devoteam.com/wp-content/uploads/sites/10/2021/04/tableau-LOGO.png" title="Tableau" alt="Tableau" height="40"/>
 </div>
 
 ---
-### Мои проекты 👇🏻
+### 🗂️ Мои проекты 👇🏻
 <table>
     <thead align="center">
         <tr>
@@ -50,10 +50,15 @@
         </tr>
     </thead>
     <tbody align="left">
-        <tr font size=3>
+        <tr>
             <td>Исследование факторов, влияющих на уровень IQ детей</th>
             <td>В работе были изучены данные, полученные в ходе трех независимых исследований. Были выявлены статистически значимые параметры, которые влияют на уровень IQ детей</th>
             <td>plotly, seaborn, matplotlib, numpy, scipy.stats, pingouin, statsmodels.api</th>
+        </tr>
+        <tr>
+            <td>Анализ e-lerning продукта</th>
+            <td>В ходе исследования данных студентов компании, которая предоставляет различные курсы, были сформированы файлы с данными, рейтинги и антирейтиги курсов, проведена предобработка данных, анализ успеваемости, cегментация студентов, RFM-анализ</th>
+            <td>plotly, seaborn, matplotlib, numpy, requests, urllib.parse </th>
         </tr>
     </tbody>
 </table>
