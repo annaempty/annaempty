@@ -22,19 +22,25 @@
 </div>
 
 ### 👩🏻‍💻 Обо мне:
+- 💥  Пришла на работу дефектоскопистом сварных соединений, ушла Аналитиком Данных
 - 📚  Имею фундаментальные знания в области математики и статистики    
 - 📈  Предпочитаю опираться на числа и факты   
 - 📊  Всю жизнь больше любила разбираться в сложных формулах, а не в больших текстах  
 
 ---
+### ⚙️ Инструменты и библиотеки:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
- 
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://pingouin-stats.org/build/html/_images/logo_pingouin.png" title="Pingouin" alt="Pingouin" width="120"/>&nbsp;
+  <img src="https://www.sysops.host/uploads/posts/2023-05/1684084549_clickhouse.png" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
+  <img src="https://me.devoteam.com/wp-content/uploads/sites/10/2021/04/tableau-LOGO.png" title="Tableau" alt="Tableau" height="40"/>
 </div>
 
 ---
-Мои проекты 👇🏻
+### Мои проекты 👇🏻
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaempty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
