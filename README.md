@@ -1,5 +1,6 @@
 <h1 align="center">Привет! Меня зовут Анна 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 <h3 align="center">Каждый день стремлюсь познавать что-то новое и интересное в сфере анализа данных</h3>
 
 <div id="header" align="center">
@@ -13,14 +14,12 @@
   </a>
 </div>
 
-Here are some ideas to get you started:
+### 👩🏻‍💻 Обо мне:
+- 📚  Имею фундаментальные знания в области математики и статистики    
+- 📈  Предпочитаю опираться на числа и факты   
+- 📊  Всю жизнь больше любила разбираться в сложных формулах, а не в больших текстах  
+- 📫  Мои контакты: <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
