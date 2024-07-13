@@ -10,8 +10,15 @@
 <div id="contact" align="center">
   <a href="https://t.me/any_empty">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white">
-    <img src="https://komarev.com/ghpvc/?username=annaempty&style=flat-square&color=blue" alt="https://github.com/annaempty"/>
   </a>
+  
+  <a href="https://wa.me/79258560712"> 
+    <img src='https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white'>
+  </a>  
+</div>
+
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=annaempty&style=flat-square&color=blue" alt="https://github.com/annaempty"/>
 </div>
 
 ### 👩🏻‍💻 Обо мне:
