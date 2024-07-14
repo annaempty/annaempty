@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas" height="40"/>&nbsp;
-  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/6631ab3e404c95feff2366126736bf6b3759e4be11357ea07405a3527b9a3138/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" title="Numpy" alt="Numpy" height="40"/>&nbsp;
   <img src="https://pingouin-stats.org/build/html/_images/logo_pingouin.png" title="Pingouin" alt="Pingouin" width="120"/>&nbsp;
   <img src="https://clickhouse.com/docs/img/ch_logo_docs_dark.svg" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
   <img src="https://me.devoteam.com/wp-content/uploads/sites/10/2021/04/tableau-LOGO.png" title="Tableau" alt="Tableau" height="40"/>
