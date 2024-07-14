@@ -65,7 +65,7 @@
             <td>plotly, seaborn, matplotlib, numpy, scipy.stats, pingouin, statsmodels.api</td>
         </tr>
         <tr>
-            <td>Анализ e-lerning продукта</td>
+            <td><a href="https://github.com/annaempty/e-lerning">Анализ e-lerning продукта</a></td>
             <td>В ходе исследования данных студентов компании, которая предоставляет различные курсы, были сформированы файлы с данными, рейтинги и антирейтиги курсов, проведена предобработка данных, анализ успеваемости, cегментация студентов, RFM-анализ</td>
             <td>plotly, seaborn, matplotlib, numpy, requests, urllib.parse </td>
         </tr>
