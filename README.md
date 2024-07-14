@@ -80,6 +80,12 @@
             <td>A/B-тестирование новой механики оплаты, работа с SQL в Python, функции для ad-hoc запросов. Метрики: ARPU, ARPAU, ARPPU. Статистические тесты: Bootstrap, хи-квадрат</td>
             <td>plotly, seaborn, matplotlib, pingouin, SQL, оптимизация запросов</td>
         </tr>
+        <tr>
+            <td>Конспект по статискике</td>
+            <td>
+            Конспект можно посмотреть <a href="https://acoustic-rook-c27.notion.site/811da86b02044a50a4353091de90b92a?pvs=4">тут</a> </td>
+            <td>Notion</td>
+        </tr>
     </tbody>
 </table>
 
