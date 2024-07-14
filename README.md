@@ -60,7 +60,7 @@
     </thead>
     <tbody align="left">
         <tr>
-            <td>Исследование факторов, влияющих на уровень IQ детей</td>
+            <td> <a href="https://github.com/annaempty/IQ_child/tree/main">Исследование факторов, влияющих на уровень IQ детей</a></td>
             <td>В работе были изучены данные, полученные в ходе трех независимых исследований. Были выявлены статистически значимые параметры, которые влияют на уровень IQ детей</td>
             <td>pandas, seaborn, matplotlib, numpy, scipy.stats, pingouin, statsmodels.api</td>
         </tr>
