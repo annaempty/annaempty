@@ -62,22 +62,22 @@
         <tr>
             <td>Исследование факторов, влияющих на уровень IQ детей</td>
             <td>В работе были изучены данные, полученные в ходе трех независимых исследований. Были выявлены статистически значимые параметры, которые влияют на уровень IQ детей</td>
-            <td>plotly, seaborn, matplotlib, numpy, scipy.stats, pingouin, statsmodels.api</td>
+            <td>pandas, seaborn, matplotlib, numpy, scipy.stats, pingouin, statsmodels.api</td>
         </tr>
         <tr>
             <td><a href="https://github.com/annaempty/e-lerning">Анализ e-lerning продукта</a></td>
             <td>В ходе исследования данных студентов компании, которая предоставляет различные курсы, были сформированы файлы с данными, рейтинги и антирейтиги курсов, проведена предобработка данных, анализ успеваемости, cегментация студентов, RFM-анализ</td>
-            <td>plotly, seaborn, matplotlib, numpy, requests, urllib.parse </td>
+            <td>pandas, seaborn, matplotlib, numpy, requests, urllib.parse </td>
         </tr>
         <tr>
             <td>Оценка качества нового алгоритма дейтинг приложения</td>
             <td>Был проведен анализ поведения пользователей дейтинг приложения. Осуществлена проверка работы сплит-системы, выбор и расчет метрик (CTR, количество свайпов, количество метчей), реализованы следующие статистические тесты: t-тест, Хи-квадрат</td>
-            <td>plotly, seaborn, matplotlib, numpy, pingouin</td>
+            <td>pandas, seaborn, matplotlib, numpy, pingouin</td>
         </tr>
         <tr>
             <td>Проведение A/B-теста системы оплаты курсов</td>
             <td>A/B-тестирование новой механики оплаты, работа с SQL в Python, функции для ad-hoc запросов. Метрики: ARPU, ARPAU, ARPPU. Статистические тесты: Bootstrap, хи-квадрат</td>
-            <td>plotly, seaborn, matplotlib, pingouin, SQL, оптимизация запросов</td>
+            <td>pandas, seaborn, matplotlib, pingouin, SQL, оптимизация запросов</td>
         </tr>
         <tr>
             <td>Конспект по статискике</td>
