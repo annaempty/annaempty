@@ -80,6 +80,11 @@
             <td>pandas, seaborn, matplotlib, pingouin, SQL, оптимизация запросов</td>
         </tr>
         <tr>
+            <td><a href="https://github.com/annaempty/bnb_dashbord">Дашборд для сайта бронирования гостиниц</a></td>
+            <td> Сбор требований к дашборду, создание и согласование <a href="https://public.tableau.com/app/profile/anna.nikitina2379/viz/karpov_bnb/Dashboard1">дашборда</td>
+            <td>Tableau</td>
+        </tr>
+        <tr>
             <td>Конспект по статискике</td>
             <td>
             Конспект можно посмотреть <a href="https://acoustic-rook-c27.notion.site/811da86b02044a50a4353091de90b92a?pvs=4">тут</a> </td>
