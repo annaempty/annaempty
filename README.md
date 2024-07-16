@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white">
   </a>
   
-  <a href="https://wa.me/79258560712"> 
+  <a href="https://wa.me/79257560712"> 
     <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white">
   </a>  
 </div>
@@ -70,14 +70,14 @@
             <td>pandas, seaborn, matplotlib, numpy, requests, urllib.parse </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/annaempty/dating_site">Оценка качества нового алгоритма дейтинг приложения</a></td>
+            <td><a href="https://github.com/annaempty/dating_site">Проведение A/B-теста нового алгоритма дейтинг приложения</a></td>
             <td>Был проведен анализ поведения пользователей дейтинг приложения. Выбор и расчет метрик (CTR, количество свайпов, количество метчей), реализованы следующие статистические тесты: Т-тест, Хи-квадрат</td>
             <td>pandas, seaborn, matplotlib, numpy, pingouin</td>
         </tr>
         <tr>
             <td>Проведение A/B-теста системы оплаты курсов</td>
-            <td>A/B-тестирование новой механики оплаты, работа с SQL в Python, функции для ad-hoc запросов. Метрики: CR, ARPU, ARPAU, ARPPU. Статистические тесты: Bootstrap, хи-квадрат, Т-тест</td>
-            <td>pandas, seaborn, matplotlib, pingouin, SQL, оптимизация запросов</td>
+            <td>A/B-тестирование новой механики оплаты, работа с SQL в Python, оптимизация запросов, функции для ad-hoc запросов. Метрики: CR, ARPU, ARPAU, ARPPU. Статистические тесты: Bootstrap, хи-квадрат, Т-тест</td>
+            <td>pandas, seaborn, matplotlib, pingouin, SQL</td>
         </tr>
         <tr>
             <td><a href="https://github.com/annaempty/bnb_dashbord">Дашборд для сайта бронирования гостиниц</a></td>
