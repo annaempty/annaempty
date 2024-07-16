@@ -81,7 +81,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/annaempty/bnb_dashbord">Дашборд для сайта бронирования гостиниц</a></td>
-            <td> Сбор требований к дашборду, создание и согласование <a href="https://public.tableau.com/app/profile/anna.nikitina2379/viz/karpov_bnb/Dashboard1">дашборда</td>
+            <td> Сбор требований, создание и согласование <a href="https://public.tableau.com/app/profile/anna.nikitina2379/viz/karpov_bnb/Dashboard1">дашборда</td>
             <td>Tableau</td>
         </tr>
         <tr>
