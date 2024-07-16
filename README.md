@@ -70,7 +70,7 @@
             <td>pandas, seaborn, matplotlib, numpy, requests, urllib.parse </td>
         </tr>
         <tr>
-            <td>Оценка качества нового алгоритма дейтинг приложения</td>
+            <td><a href="https://github.com/annaempty/dating_site">Оценка качества нового алгоритма дейтинг приложения</a></td>
             <td>Был проведен анализ поведения пользователей дейтинг приложения. Выбор и расчет метрик (CTR, количество свайпов, количество метчей), реализованы следующие статистические тесты: Т-тест, Хи-квадрат</td>
             <td>pandas, seaborn, matplotlib, numpy, pingouin</td>
         </tr>
