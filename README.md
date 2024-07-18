@@ -75,7 +75,7 @@
             <td>pandas, seaborn, matplotlib, numpy, pingouin</td>
         </tr>
         <tr>
-            <td>Проведение A/B-теста системы оплаты курсов</td>
+            <td><a href="https://github.com/annaempty/AB_testing_educational_website">Проведение A/B-теста системы оплаты курсов</a> </td>
             <td>A/B-тестирование новой механики оплаты, работа с SQL в Python, оптимизация запросов, функции для ad-hoc запросов. Метрики: CR, ARPU, ARPAU, ARPPU. Статистические тесты: Bootstrap, хи-квадрат, Т-тест</td>
             <td>pandas, seaborn, matplotlib, pingouin, SQL</td>
         </tr>
