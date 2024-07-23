@@ -1,23 +1,21 @@
-<h1 align="center">Привет! Меня зовут Анна </h1>
+<h1 align="center">Привет! Меня зовут Никитина Анна </h1>
 <h3 align="center">Каждый день стремлюсь познавать что-то новое и интересное в сфере анализа данных</h3>
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtrZzVjYXJzcmMzMmVqc2tubXB5eWs1MXpmb3JjMWswOTlxMmNmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
 </div>
 
-<div id="contact" align="center">
-  <a href="https://t.me/any_empty">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white">
-  </a>
-  
-  <a href="https://wa.me/79257560712"> 
-    <img src="https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=white">
-  </a>  
-</div>
-
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=annaempty&style=flat-square&color=blue" alt="https://github.com/annaempty"/>
 </div>
+
+<h3>
+Аналитик Данных / Data Analyst 
+</h3>
+
+### Контакты:
+<a href="https://t.me/any_empty">tg: @any_empty</a> - предпочтительный способ связи.  
+телефон: +7(925)756-07-12
 
 ### 👩🏻‍💻 Обо мне:
 - 💥  Пришла на работу дефектоскопистом сварных соединений, ухожу Аналитиком Данных
@@ -83,12 +81,6 @@
             <td><a href="https://github.com/annaempty/bnb_dashbord">Дашборд для сайта бронирования гостиниц</a></td>
             <td> Сбор требований, создание и согласование <a href="https://public.tableau.com/app/profile/anna.nikitina2379/viz/karpov_bnb/Dashboard1">дашборда</td>
             <td>Tableau</td>
-        </tr>
-        <tr>
-            <td>Конспект по статискике</td>
-            <td>
-            Конспект можно посмотреть <a href="https://acoustic-rook-c27.notion.site/811da86b02044a50a4353091de90b92a?pvs=4">тут</a> </td>
-            <td>Notion</td>
         </tr>
     </tbody>
 </table>
