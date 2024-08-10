@@ -80,6 +80,11 @@
             <td> Сбор требований, создание и согласование <a href="https://public.tableau.com/app/profile/anna.nikitina2379/viz/karpov_bnb/Dashboard1">дашборда</td>
             <td>Tableau</td>
         </tr>
+        <tr>
+            <td> <a href="https://github.com/annaempty/number_absences_working_days">Автоматизация ad-hoc задачи</a></td>
+            <td>В работе была реализована программа для автоматизации ad-hoc запросов, в которой необходимо подсчитать количество рабочих дней, в которые отсутствовал сотрудник. Была написана пользовательская агрегатная функция </td>
+            <td>pandas, numpy </td>
+        </tr>
     </tbody>
 </table>
 
